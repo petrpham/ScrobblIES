@@ -5,4 +5,4 @@ This project aims to provide analysis, insights and interesting facts about the 
 Last.fm is a site designed for storing user's music library. Users share and track the songs they play on their devices - one such share of a song played is called _scrobble_.
 
 ## Last.fm API
-Last.fm has its API through which some interesting data saved in their database can be downloaded and processed. We mainly focused on __data with geographic information__ (most played artists and tracks in given countries).
+Last.fm has its API through which some of the data gathered by the platform can be downloaded and processed. We mainly focused on __data with geographic information__ - most played artists and tracks in given countries. 
