@@ -6,3 +6,6 @@ Last.fm is a site designed for storing user's music library. Users share and tra
 
 ## Last.fm API
 Last.fm has its API through which some of the data gathered by the platform can be downloaded and processed. We mainly focused on __data with geographic information__ - most played artists and tracks in given countries. 
+
+## Before use
+To access the LastFM public API, one needs an API key, which can granted upon registration @https://www.last.fm/api/account/create. Please insert the key into the configuration file in order to start scraping. To save your time an archived cache file can also be found in this repository containing 100 most popular artists and tracks by country and additional information about them.
